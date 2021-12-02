@@ -17,7 +17,7 @@ namespace AddressBook
         public string phonenumber;
         public string email;
 
-        public  void DisplayContacts()
+        public void DisplayContacts()
         {
             UC1_CreateContacts cc = new UC1_CreateContacts();
 
@@ -59,4 +59,5 @@ namespace AddressBook
 
         }
     }
+    
 }
