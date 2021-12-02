@@ -1,0 +1,15 @@
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.exe
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.deps.json
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.runtimeconfig.json
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.dll
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\ref\AddressBook.dll
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.pdb
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.csproj.AssemblyReference.cache
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfoInputs.cache
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfo.cs
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.csproj.CoreCompileInputs.cache
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.dll
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\ref\AddressBook.dll
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.pdb
+D:\bridzlabz\Address_Book\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.genruntimeconfig.cache
