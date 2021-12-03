@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("*************** Address Book *****************");
 using AddressBook;
-Console.Write("Select Number:\n1)CreateContacts\n2)AddNewContacts\n3)EditContacts");
+Console.Write("Select Number:\n1)CreateContacts\n2)AddNewContacts\n3)EditContacts\n4)DeleteContacts");
 int option = Convert.ToInt32(Console.ReadLine());
 switch (option)
 {
@@ -19,7 +19,11 @@ switch (option)
         EditContacts.Update();
 
         break;
-         
+    case 4:
+        DeleteContacts.NewContact();
+        DeleteContacts.ListContacts();
+        DeleteContacts.RemovePerson();
+        break;
 
 
     default:
